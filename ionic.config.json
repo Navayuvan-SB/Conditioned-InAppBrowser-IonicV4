@@ -1,7 +1,8 @@
 {
   "name": "InAppBrowser",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
